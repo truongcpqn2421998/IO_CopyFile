@@ -1,0 +1,133 @@
+ Aatrox		Quỷ Kiếm Darkin		2013	 Đấu sĩ		 Đỡ đòn
+ Ahri		Hồ Li Chín Đuôi		2011	 Pháp sư	 Sát thủ
+ Akali		Sát thủ đơn độc		2010	 Sát thủ	 Đấu sĩ
+ Alistar	Quái Vật Đầu Bò		2009	 Đỡ đòn	 	 Hỗ trợ
+ Amumu		Xác Ướp U Sầu		2009	 Đỡ đòn		 Pháp sư
+ Anivia		Phượng Hoàng Băng	2009	 Pháp sư	 Hỗ trợ
+ Annie		Đứa Trẻ Bóng Tối	2009	 Pháp sư	N/A
+ Ashe		Cung Băng		2009	 Xạ thủ	 Hỗ trợ
+ Aurelion Sol	Ác Long Thượng Giới	2016	 Pháp sư	N/A
+ Azir		Hoàng Đế Sa Mạc		2014	 Pháp sư	 Xạ thủ
+ Bard		Ông Bụt Vũ Trụ		2015	 Hỗ trợ	 Pháp sư
+ Blitzcrank	Người Máy Hơi Nước	2009	 Đỡ đòn	 Đấu sĩ
+ Brand		Thần Lửa		2011	 Pháp sư	N/A
+ Braum		rái Tim Của Freljord	2014	 Hỗ trợ	 Đỡ đòn
+ Caitlyn	Cảnh Sát Trưởng Piltover2011	 Xạ thủ	N/A
+ Cassiopeia	Xà Nữ			2010	 Pháp sư	N/A
+ Cho'Gath	Quái Vật Hư Không	2009	 Đỡ đòn	 Pháp sư
+ Corki		Phi Công Quả Cảm	2009	 Xạ thủ	 Pháp sư
+ Darius		Đại Tướng Noxus	2012	 Đấu sĩ	 Đỡ đòn
+ Diana		Vầng Trăng Ai Oán	2012	 Đấu sĩ	 Pháp sư
+ Dr. Mundo	Cuồng Nhân Xứ Zaun	2009	 Đấu sĩ	 Đỡ đòn
+ Draven		Đao Phủ Kiêu Hùng	2012	 Xạ thủ	N/A
+ Ekko		Cậu Bé Đảo Lộn Thời Gian	2015	 Sát thủ	 Đấu sĩ
+ Elise	Nữ Hoàng Nhền Nhện	2012	 Pháp sư	 Đấu sĩ
+ Evelynn	Yêu Nữ	2009	 Sát thủ	 Pháp sư
+ Ezreal	Nhà Thám Hiểm	2010	 Xạ thủ	 Pháp sư
+ Fiddlesticks	Sứ Giả Địa Ngục	2009	 Pháp sư	 Hỗ trợ
+ Fiora	Nữ Kiếm Sư	2012	 Đấu sĩ	 Sát thủ
+ Fizz	Chú Cá tinh Nghịch	2011	 Sát thủ	 Pháp sư
+ Galio	Vệ Thần Khổng Lồ	2010	 Đỡ đòn	 Pháp sư
+ Gangplank	Hiểm Hoạ Vùng Saltwater	2009	 Đấu sĩ	 Hỗ trợ
+ Garen	Sức Mạnh Của Demacia	2010	 Đấu sĩ	 Đỡ đòn
+ Gnar	Mắt Xích Thượng Cổ	2014	 Đấu sĩ	 Xạ thủ
+ Gragas	Gã Bợm Rượu	2010	 Đấu sĩ	 Pháp sư
+ Graves	Kẻ Ngoài Vòng Pháp Luật	2011	 Xạ thủ	 Đấu sĩ
+ Hecarim	Bóng Ma Chiến Tranh	2012	 Đấu sĩ	 Đỡ đòn
+ Heimerdinger	Nhà Phát Minh Lỗi Lạc	2009	 Pháp sư	 Hỗ trợ
+ Illaoi	Nữ Tu Thủy Thần	2015	 Đấu sĩ	 Đỡ đòn
+ Irelia	Vũ Kiếm Sư	2010	 Đấu sĩ	 Sát thủ
+ Janna	Cơn Thịnh Nộ Của Bão Tố	2009	 Hỗ trợ	 Pháp sư
+ Jarvan IV	Biểu Tượng Của Demacia	2011	 Đỡ đòn	 Đấu sĩ
+ Jax	Bậc Thầy Vũ Khí	2009	 Đấu sĩ	 Sát thủ
+ Jayce	Người Bảo Hộ Mai Sau	2012	 Đấu sĩ	 Xạ thủ
+ Jinx	Khẩu Pháo Nỗi Loạn	2013	 Xạ thủ	N/A
+ Kai'sa	Ái Nữ Hư Không	2018	 Xạ thủ	N/A
+ Kalista	Mũi Giáo Phục Hận	2014	 Xạ thủ	 Đấu sĩ
+ Karma	Kẻ Được Khai Sáng	2011	 Pháp sư	 Hỗ trợ
+ Karthus	Tiếng Ru Tử Thần	2009	 Pháp sư	 Đấu sĩ
+ Kassadin	Lữ Khách Hư Không	2009	 Sát thủ	 Pháp sư
+ Katarina	Ác Kiếm	2009	 Sát thủ	 Pháp sư
+ Kayle	Thiên Thần Phán Quyết	2009	 Đấu sĩ	 Hỗ trợ
+ Kennen	Trái Tim Sấm Sét	2010	 Pháp sư	 Xạ thủ
+ Kha'Zix	Sát Thủ Hư Không	2012	 Sát thủ	 Đấu sĩ
+ Kindred	Thợ Săn Vĩnh Hằng	2015	 Xạ thủ	 Đấu sĩ
+ Kog'Maw	Miệng Của Vực Thẳm	2010	 Xạ thủ	 Pháp sư
+ LeBlanc	Kẻ Lừa Đảo	2010	 Sát thủ	 Pháp sư
+ Lee Sin	Thầy Tu Mù	2011	 Đấu sĩ	 Sát thủ
+ Leona	Bình Minh Rực Rỡ	2011	 Đỡ đòn	 Hỗ trợ
+ Lissandra	Mụ Phù Thuỷ Băng	2013	 Pháp sư	N/A
+ Lucian	Kẻ Thanh Trừng	2013	 Xạ thủ	N/A
+ Lulu	Pháp Sư Tinh Linh	2012	 Hỗ trợ	 Pháp sư
+ Lux	Tiểu Thư Ánh Sáng	2010	 Pháp sư	 Hỗ trợ
+ Malphite	Mãnh Vỡ Thiên Thạch	2009	 Đỡ đòn	 Đấu sĩ
+ Malzahar	Tiên Tri Hư Không	2010	 Pháp sư	 Sát thủ
+ Maokai	Ma Cây	2011	 Đỡ đòn	 Pháp sư
+ Master Yi	Kiếm Sư Wuju	2009	 Sát thủ	 Đấu sĩ
+ Miss Fortune	Thợ Săn Tiền Thưởng	2010	 Xạ thủ	 Hỗ trợ
+ Mordekaiser	Ác Quỷ Thiết Giáp	2010	 Đấu sĩ	 Pháp sư
+ Morgana	Thiên Thần Sa Ngã	2009	 Pháp sư	 Hỗ trợ
+ Nami	Nàng Tiên Cá	2012	 Hỗ trợ	 Pháp sư
+ Nasus	Nhà Thông Thái Sa Mạc	2009	 Đấu sĩ	 Đỡ đòn
+ Nautilus	Khổng Lồ Biển Sâu	2012	 Đỡ đòn	 Đấu sĩ
+ Nidalee	Nữ Thợ Săn Hoá Thú	2009	 Sát thủ	 Đấu sĩ
+ Nocturne	Ác Mộng Vĩnh Cửu	2011	 Sát thủ	 Đấu sĩ
+25px Nunu & Willump	Cậu Bé Và Người Tuyết	2009 (2018)	 Hỗ trợ	 Đấu sĩ
+ Olaf	Chiến Binh Điên Cuồng	2010	 Đấu sĩ	 Đỡ đòn
+ Orianna	Quý Cô Dây Cót	2011	 Pháp sư	 Hỗ trợ
+ Ornn	Ngọn Lửa Khởi Nguyên	2017	 Đấu sĩ	 Đỡ đòn
+ Pantheon	Bậc Thầy Chiến Tranh	2010	 Đấu sĩ	 Sát thủ
+ Poppy	Người Giữ Búa	2010	 Đấu sĩ	 Sát thủ
+ Pyke	Sát Thủ Vùng Nước Đỏ	2018	 Đấu sĩ	 Đỡ đòn
+ Quinn	Đôi Cánh Demacia	2013	 Xạ thủ	 Đấu sĩ
+ Rakan	Anh Chàng Quyến Rũ	2017	 Hỗ trợ	 Đấu sĩ
+ Rammus	Tê Tê Gai	2009	 Đỡ đòn	 Đấu sĩ
+ Rek'Sai	Nấm Mồ Hư Không	2014	 Đấu sĩ	 Sát thủ
+ Renekton	Đồ Tể Sa Mạc	2011	 Đấu sĩ	 Đỡ đòn
+ Rengar	Thú Săn Mồi Kiêu Hãnh	2012	 Sát thủ	 Đấu sĩ
+ Riven	Kẻ Lưu Đày	2011	 Đấu sĩ	 Sát thủ
+ Rumble	Hiểm Hoạ Cơ Khí	2011	 Đấu sĩ	 Pháp sư
+ Ryze	Pháp Sư Lang Thang	2009	 Pháp sư	 Đấu sĩ
+ Sejuani	Cơn Thịnh Nộ Mùa Đông	2012	 Đỡ đòn	 Đấu sĩ
+ Shaco	Tên Hề Quỷ	2009	 Sát thủ	 Pháp sư
+ Shen	Mắt Hoàng Hôn	2010	 Đỡ đòn	 Đấu sĩ
+ Shyvana	Long Nữ	2011	 Đấu sĩ	 Đỡ đòn
+ Singed	Dược Sĩ Điên	2009	 Đỡ đòn	 Đấu sĩ
+ Sion	Chiến Binh Bất Tử	2009	 Đỡ đòn	 Đấu sĩ
+ Sivir	Nữ Chúa Chiến Trường	2009	 Xạ thủ	N/A
+ Skarner	Bò Cạp Kim Cương	2011	 Đấu sĩ	 Đỡ đòn
+ Sona	Đại Cầm Nữ	2010	 Hỗ trợ	 Pháp sư
+ Soraka	Tinh Nữ	2009	 Hỗ trợ	 Pháp sư
+ Swain	Nguyên Soái Noxus	2010	 Pháp sư	 Đấu sĩ
+ Syndra	Nữ Chúa Bóng Tối	2012	 Pháp sư	 Hỗ trợ
+ Tahm Kench	Thủy Quái Đại Vương	2015	 Đỡ đòn	 Hỗ trợ
+ Talon	Sát Thủ Bóng Đêm	2011	 Sát thủ	 Đấu sĩ
+ Taric	Tấm Khiên Valoran	2009	 Hỗ trợ	 Đấu sĩ
+ Teemo	Trinh Sát Nhanh Nhẹn	2009	 Xạ thủ	 Sát thủ
+ Thresh	Cai Ngục Xiềng Xích	2013	 Hỗ trợ	 Đấu sĩ
+ Tristana	Tay Súng Yordle	2009	 Xạ thủ	 Sát thủ
+ Trundle	Vua Quỷ Khổng Lồ	2010	 Đấu sĩ	 Đỡ đòn
+ Tryndamere	Bá Vương Man Di	2009	 Đấu sĩ	 Sát thủ
+ Twisted Fate	Thần Bài	2009	 Pháp sư	 Xạ thủ
+ Twitch	Chuột Thành Tinh	2009	 Xạ thủ	 Sát thủ
+ Udyr	Lữ Khách Tinh Linh	2009	 Đấu sĩ	 Đỡ đòn
+ Urgot	Pháo Đài Di Động	2010	 Xạ thủ	 Đấu sĩ
+ Varus	Mũi Tên Báo Thù	2012	 Xạ thủ	 Pháp sư
+ Vayne	Thợ Săn Bóng Đêm	2011	 Xạ thủ	 Sát thủ
+ Veigar	Bậc Thầy Tiểu Quỷ	2009	 Pháp sư	 Hỗ trợ
+ Vel'Koz	Con Mắt Hư Không	2014	 Pháp sư	 Hỗ trợ
+ Vi	Cảnh Binh Piltover	2012	 Đấu sĩ	 Sát thủ
+ Viktor	Sứ Giả Máy Móc	2011	 Pháp sư	N/A
+ Vladimir	Thần Chết Đỏ	2010	 Pháp sư	 Đỡ đòn
+ Volibear	Gấu Sấm Sét	2011	 Đấu sĩ	 Đỡ đòn
+ Warwick	Quái Thú Xổng Chuồng	2009	 Đấu sĩ	 Đỡ đòn
+ Ngộ Không	Hầu Vương	2011	 Đấu sĩ	 Đỡ đòn
+ Xayah	Cô Nàng Nổi Loạn	2017	 Xạ thủ	25px N/A
+ Xerath	Pháp Sư Thăng Hoa	2011	 Pháp sư	 Sát thủ
+ Xin Zhao	Tể Tướng Demacia	2010	 Đấu sĩ	 Sát thủ
+ Yasuo	Kẻ Bất Dung Thứ	2013	 Đấu sĩ	 Sát thủ
+ Yorick	Kẻ Dẫn Dắt Linh Hồn	2011	 Đấu sĩ	 Pháp sư
+ Zac	Vũ Khí Bí Mật	2013	 Đỡ đòn	 Đấu sĩ
+ Zed	Chúa Tể Bóng Tối	2012	 Sát thủ	 Đấu sĩ
+ Ziggs	Chuyên Gia Chất Nổ	2012	 Pháp sư	 Xạ thủ
+ Zilean	Giám Hộ Thời Gian	2009	 Hỗ trợ	 Pháp sư
